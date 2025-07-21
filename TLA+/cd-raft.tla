@@ -1,4 +1,4 @@
------------------------ MODULE cdraftv104 -----------------------
+----------------------- MODULE cdraft -----------------------
 EXTENDS Naturals, Sequences, FiniteSets
 
 CONSTANTS
